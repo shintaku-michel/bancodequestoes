@@ -1,14 +1,224 @@
 {
     "questoes": [
         {
+            "nro":"01",
             "disciplina":"Legislação Especial",
-            "materia":"Matéria",
-            "banca":"Banca",
-            "pergunta":"Pergunta",
-            "resposta":"Resposta",
-            "comentario":"Comentário",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2015 - TJ/PB – Juiz de Direito",
+            "pergunta":"A perda do cargo ou função pública pelo servidor público está prevista como efeito da condenação por crimes resultantes de preconceito de raça ou de cor, no entanto, para que isso ocorra, deve o juiz declará-lo motivadamente na sentença.",
+            "resposta":"C",
+            "comentario":"De fato, a perda do cargo ou função pública é um efeito da condenação, e precisa ser declarada na sentença.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"02",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"FCC/2015 - TJ/SC – Juiz de Direito",
+            "pergunta":"Publicar ilustração de recém-nascidos afrodescendentes em fuga de sala de parto, associado aos dizeres de um personagem (supostamente médico) de cor branca: 'Segurança! É uma fuga em massa!'. Tal conduta amolda-se ao crime de racismo, previsto na Lei no 7.716/89.",
+            "resposta":"C",
+            "comentario":"A conduta (bizarra) descrita na questão deixa claro que se trata de crime de racismo. O tipo está previsto no art. 20 da Lei no 7.716/1989.",
             "lei": "sim",
-            "desc_lei": "Lei"
+            "desc_lei": "Art.20 - Praticar, induzir ou incitar a discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional."
+        },
+        {
+            "nro":"03",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2014 - TJ/CE – Analista Judiciário",
+            "pergunta":"Considera-se crime inafiançável e insuscetível de graça ou anistia a prática do racismo, por ele respondendo os mandantes, os executores e os que, podendo evitá-lo, se omitirem.",
+            "resposta":"E",
+            "comentario":"O racismo é crime inafiançável e imprescritível, nos termos da Constituição Federal. O que a Constituição considera crimes inafiançáveis e insuscetíveis de graça ou anistia são os crimes de tortura , o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"04",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2014 - Câmara dos Deputados – Técnico Legislativo",
+            "pergunta":"Conforme a lei que prevê condutas discriminatórias, cometerá crime de discriminação ou preconceito o agente que impedir o acesso de idoso a edifício público pelas entradas sociais.",
+            "resposta":"E",
+            "comentario":"Na realidade a idade não é mencionada pelo art. 1o, que apenas trata do preconceito de preconceito de raça, cor, etnia, religião ou procedência nacional.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"05",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"UNIVERSA/2009 - PCDF – Delegado de Polícia",
+            "pergunta":"O antissemitismo pode ser considerado como crime de racismo.",
+            "resposta":"C",
+            "comentario":"Nos termos da Lei no 7.716/1989, os crimes de racismo são aqueles resultantes de discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional. O antissemitismo, portanto, poderia ser considerado racismo.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"06",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"VUNESPE/2014 - TJ/PA – Juiz de Direito",
+            "pergunta":"“X” é negro e jogador de futebol profissional. Durante uma partida é chamado pelos torcedores do time adversário de macaco e lhe são atiradas bananas no meio do gramado. Caso sejam identificados os torcedores, é correto afirmar que, em tese, responderão pelo crime de injúria racial, nos termos do art. 140, § 3.o do Código Penal.",
+            "resposta":"C",
+            "comentario":"Interessante a banca ter elaborado uma questão com uma hipótese que pouco tempo depois veio a ocorrer de fato. Neste caso estamos diante de injúria racial, e não de racismo, pois a discriminação foi direcionada a uma pessoa específica.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"07",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"VUNESPE/2008 - DPE/MS – Defensor Público",
+            "pergunta":"É crime de preconceito, definido na Lei n.o 7.716/89, impedir o acesso às entradas sociais em edifícios públicos ou residenciais e elevadores ou escada de acesso aos mesmos.",
+            "resposta":"C",
+            "comentario":"Conduta descritas na Lei no 7.716/1989.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"08",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"VUNESPE/2013 - TJ/SP – Advogado",
+            "pergunta":"Nos termos da Lei n.o 7.716/1989, a qual versa sobre delitos de preconceito ou discriminação racial, pratica crime aquele que, em virtude de preconceito de raça, impede ou obsta o acesso de alguém às entradas sociais de edifícios públicos ou residenciais, bem como aos elevadores ou às escadas desses locais.",
+            "resposta":"C",
+            "comentario":"Conduta descritas na Lei no 7.716/1989.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"09",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2013 - DPRF – Agente da Polícia Rodoviária Federal",
+            "pergunta":"Constitui crime o fato de determinado clube social recusar a admissão de um cidadão em razão de preconceito de raça, salvo se o respectivo estatuto atribuir à diretoria a faculdade de recusar propostas de admissão, sem declinação de motivos.",
+            "resposta":"E",
+            "comentario":"O STJ já julgou no sentido de que 'A recusa de admissão no quadro associativo de clube social, em razão de preconceito de raça ou de cor, caracteriza o tipo inserto no artigo 9 da Lei no 7.716/89, enquanto modo da conduta impedir, que lhe integra o núcleo'.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"10",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"FUNCAB/2013 - PC/ES – Delegado de Polícia",
+            "pergunta":"No interior de uma aeronave de uma companhia americana, quando esta sobrevoava o estado da Bahia, Patrícia, que embarcara no aeroporto de Vitória – ES, viajando para os Estados Unidos da América, teve um desentendimento com uma comissária de bordo do avião, por causa do assento em que estava posicionada. Em razão do tratamento dispensado pela comissária de bordo, Patrícia solicitou seu nome, ocasião em que a funcionária da companhia aérea disse que não daria, inclusive afirmou: “Amanhã vou acordar jovem, bonita, orgulhosa, rica e sendo uma poderosa americana, e você vai acordar como safada, depravada, repulsiva, canalha e miserável brasileira.” Assim, essa aeromoça praticou o crime de racismo, preceituado na Lei n° 7.716/1989.",
+            "resposta":"C",
+            "comentario":"Aqui você poderia ficar em dúvida entre o crime de racismo previsto na Lei no 7.716/1989 e a injúria racial do §3o do art. 140 do Código Penal. Essa questão levantou muita polêmica na época em que foi aplicada, justamente por não deixar tão claro se a ofensa foi dirigida apenas à passageira ou a todo o povo brasileiro. O gabarito oficial é a letra D, mas vale mencionar que essa questão se baseia num caso real, que realmente ocorreu, e no qual foi aplicada a Lei no 7.716/1989.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"11",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2010 - MPU – Técnico",
+            "pergunta":"Considere que Tânia, proprietária de um salão de beleza especializado em penteados afros, recuse atendimento a determinada pessoa de pele branca e cabelos ruivos, sob a justificativa de o atendimento, no salão, restringir-se a afrodescendentes. Nessa situação, a conduta de Tânia não constitui crime, visto que, sendo proprietária do estabelecimento, ela tem o direito de restringir o atendimento a determinados clientes.",
+            "resposta":"E",
+            "comentario":"Aqui é importante prestar atenção à justificativa dada pela negativa do atendimento. Se a dona do salão disse que seu atendimento se restringia a afrodescendentes, cometeu crime de racismo, previsto no art. 10 da Lei no 7.716/1989. Esta questão gerou um pouco de polêmica na época, mas foi dada como errada pelo Cespe.",
+            "lei": "sim",
+            "desc_lei": "Art. 10. Impedir o acesso ou recusar atendimento em salões de cabeleireiros, barbearias, termas ou casas de massagem ou estabelecimento com as mesmas finalidades. Pena: reclusão de um a três anos."
+        },
+        {
+            "nro":"12",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2012 - MPE-PI – Promotor de Justiça",
+            "pergunta":"Considere que Mauro, irritado com a demora no andamento da fila do caixa de um supermercado, tenha proferido xingamentos direcionados à atendente do caixa, atribuindo a demora no atendimento à inferioridade intelectual que, segundo ele, era característica intrínseca da raça a que a moça pertencia. Nessa situação, Mauro deve ser acusado de crime de racismo, previsto na legislação específica, por ter negado à funcionária, por motivo racial, o direito de trabalho no comércio.",
+            "resposta":"E",
+            "comentario":"À época da questão, muitos disseram que a assertiva estava errada, pois tratar-se-ia de crime de injúria qualificada. De acordo com os julgados mais recentes (a exemplo do HC STJ 63350), a conduta praticada por Mauro pode ser considerada crime de racismo, enquadrado no art. 20 da Lei no 7.716/1989, pois, apesar de a conduta ter sido dirigida a uma única pessoa, a ofensa foi proferida contra toda a raça. O assunto ainda é polêmico, mas, de qualquer forma, a assertiva continua incorreta, pois o enquadramento foi feito como se o agente tivesse negado o direito de trabalho à atendente do caixa.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"13",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2012 - AGU – Advogado",
+            "pergunta":"O crime de racismo praticado por meio da rede mundial de computadores consuma-se no local onde sejam recebidas as manifestações racistas.",
+            "resposta":"E",
+            "comentario":"Vimos na aula de hoje que nos crimes de racismo praticados pela internet, considera-se consumado o delito no local de onde partiram as manifestações tidas por racistas.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"14",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2012 - AGU – Advogado",
+            "pergunta":"O fato de um empresário, por preconceito em relação à cor de determinado empregado, impedir a sua ascensão funcional na empresa, configurará delito contra a organização do trabalho, e não crime resultante de preconceito.",
+            "resposta":"E",
+            "comentario":"Este crime está tipificado de forma bastante específica na Lei do Racismo.",
+            "lei": "sim",
+            "desc_lei": "Art. 4o Negar ou obstar emprego em empresa privada. § 1o Incorre na mesma pena quem, por motivo de discriminação de raça ou de cor ou práticas resultantes do preconceito de descendência ou origem nacional ou étnica: I - deixar de conceder os equipamentos necessários ao empregado em igualdade de condições com os demais trabalhadores; II - impedir a ascensão funcional do empregado ou obstar outra forma de benefício profissional; III - proporcionar ao empregado tratamento diferenciado no ambiente de trabalho, especialmente quanto ao salário."
+        },
+        {
+            "nro":"15",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2011 - TJ/PB – Juiz de Direito",
+            "pergunta":"Suponha que o diretor de recursos humanos de uma concessionária de serviço público obste, por discriminação religiosa, a promoção funcional de um subordinado seu. Nesse caso, o referido diretor não praticará conduta penalmente típica, mas infração, a ser apurada no âmbito administrativo.",
+            "resposta":"E",
+            "comentario":"O art. 3o da Lei no 7.716/1989 faz menção expressa à inclusão das concessionários de serviços públicos com relação à conduta típica de “obstar a promoção funcional”.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"16",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2010 - ABIN – Oficial Técnico de Inteligência",
+            "pergunta":"Considere que uma jovem atriz negra atue em campanha televisiva promovida por órgão público para a prevenção da AIDS, transmita a seguinte mensagem: 'eu peço ao meu último parceiro que faça um teste'. Nessa situação, ainda que não tenha havido a intenção de associar a disseminação da doença à raça negra, restam violados os direitos à imagem da mulher negra brasileira, o que configura, em tese, crime de racismo.",
+            "resposta":"E",
+            "comentario":"Para que haja crime de racismo, é necessária a existência da finalidade especial do agente, no sentido de discriminar com base na raça, cor, etnia, religião ou origem.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"17",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2004 - DPF – Delegado de Polícia Federal",
+            "pergunta":"Pedro pediu em casamento Carolina, que tem 16 anos de idade, e ela aceitou. O pai de Carolina, porém, negou-se a autorizar o casamento da filha, pelo fato de o noivo ser negro. Todavia, para não ofender Pedro, solicitou a Carolina que lhe dissesse que o motivo da sua recusa era o fato de ele ser ateu. Nessa situação, o pai de Carolina cometeu infração penal.",
+            "resposta":"C",
+            "comentario":"Parece que o pai de Carolina trocou seis por meia dúzia, não é mesmo? Ele praticaria o crime de racismo por ter impedido sua filha de casar-se com Pedro em razão de sua cor. Para não incorrer no crime, porém, mentiu dizendo que a razão era religiosa. Vimos na aula de hoje que a discriminação fundada na raça, cor, etnia, religião ou origem constitui crime de racismo.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"18",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2012 - MPT – Procurador",
+            "pergunta":"Não constitui crime previsto na Lei no 7.716/1989, ofender ou ameaçar alguém, por palavra, gesto, ou qualquer outro meio simbólico, de causar-lhe mal injusto e grave, em virtude de raça, cor, etnia, religião ou procedência nacional.",
+            "resposta":"C",
+            "comentario":"Na realidade trata-se da injúria racial, e não do crime de racismo.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"19",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"CESPE/2011 - TJ-PR – Juiz de Direito",
+            "pergunta":"A Lei Ordinária 7.716, de 05 de janeiro de 1989, dispõe sobre os crimes resultantes de preconceitos de raça e cor, sendo correto afirmar que é considerada criminosa a conduta de praticar, induzir ou incitar a discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional.",
+            "resposta":"C",
+            "comentario":"Justamente a descrição da lei.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"20",
+            "disciplina":"Legislação Especial",
+            "materia":"Lei no 7.716/1989 - Lei contra o Preconceito",
+            "banca":"FCC/2011 - TRT 1a Região – Técnico Judiciário",
+            "pergunta":"Lauro é proprietário de uma lanchonete. Admitia em seu estabelecimento a frequência de pessoas da raça negra, mas recusava-se a servi-las. A conduta de Lauro configura modalidade de crime de discriminação racial.",
+            "resposta":"C",
+            "comentario":"Lauro cometeu o crime previsto no art. 5o da Lei no 7.716/1989.",
+            "lei": "sim",
+            "desc_lei": "Art. 5o Recusar ou impedir acesso a estabelecimento comercial, negando-se a servir, atender ou receber cliente ou comprador. Pena: reclusão de um a três anos."
         }
     ]
 }
