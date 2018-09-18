@@ -1,0 +1,258 @@
+{
+    "questoes": [
+        {
+            "nro":"1",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2008 – TJ/DF – ANALISTA JUDICIÁRIO",
+            "pergunta":"Nas ações penais públicas condicionadas à representação da ofendida, esta pode renunciar à representação perante o juiz ou a autoridade policial, no máximo, até a data do oferecimento da denúncia.",
+            "resposta":"E",
+            "comentario":"Cuidado com esta pegadinha! O CPP não fala em renunciar à representação, mas em se retratar da representação já formulada.",
+            "lei": "sim",
+            "desc_lei": "Art.25. A representação será irretratável, depois de oferecida a denúncia."
+        },
+        {
+            "nro":"2",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2008 – PC/TO – DELEGADO DE POLÍCIA",
+            "pergunta":"Valmir, penalmente imputável, agrediu fisicamente Leandro, produzindo-lhe lesões corporais de natureza leve, constatadas em laudo pericial. Apresentado o fato à autoridade policial, e após a representação do ofendido, foi formalizado e remetido ao Poder Judiciário o respectivo termo circunstanciado. Nessa situação, uma vez procedida a representação pela vítima, esta não mais poderá desistir da persecução penal, devendo a ação penal seguir sua tramitação sob a titularidade do Ministério Público, até decisão final.",
+            "resposta":"E",
+            "comentario":"O ofendido tem o direito de se retratar da representação oferecida, desde que o faça antes do oferecimento da denúncia pelo MP, nos termos do art. 25 do CP.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"3",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2010 – DETRAN-ES – ADVOGADO",
+            "pergunta":"Nas ações penais de natureza privada, não se admite o perdão do ofendido depois do trânsito em julgado da sentença condenatória.",
+            "resposta":"C",
+            "comentario":"O perdão do ofendido é instituto que só pode ser praticado dentro do processo penal. Assim, trata-se de instituto que somente o querelante pode praticar em benefício do querelado. Estes termos (querelante e querelado) deixam de existir quando o processo transita em julgado, pois nesse momento o processo se encerra, não sendo mais possível a concessão do perdão do ofendido.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"4",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – PRF – POLICIAL RODOVIÁRIO FEDERAL",
+            "pergunta":"Após regular instrução processual, mesmo que se convença da falta de prova de autoria do crime que inicialmente atribuíra ao acusado, não poderá o Ministério Público desistir da ação penal.",
+            "resposta":"C",
+            "comentario":"O item está correto. O MP não pode desistir da ação penal, pelo princípio da indisponibilidade da ação penal pública. Contudo, nada impede que o MP requeira ao Juiz a absolvição do acusado.",
+            "lei": "sim",
+            "desc_lei": "Art.42. O Ministério Público não poderá desistir da ação penal."
+        },
+        {
+            "nro":"5",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – DEPEN – AGENTE PENITENCIÁRIO",
+            "pergunta":"A ação penal pública condicionada à representação da vítima inicia-se mediante o recebimento da queixa pelo juiz competente.",
+            "resposta":"E",
+            "comentario":"A ação penal pública se inicia com o recebimento da DENÚNCIA pelo Juiz competente, eis que “queixa” é o nome dado à ação penal privada. Portanto, a AFIRMATIVA ESTÁ ERRADA.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"6",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – PC/BA – ESCRIVÃO DE POLÍCIA",
+            "pergunta":"Na hipótese de o Ministério Público (MP) perder o prazo legal para oferecer denúncia pelo crime de roubo, a vítima poderá propor queixa-crime em juízo e mover ação penal privada subsidiária da pública no prazo de seis meses, tornando-se o ofendido titular da ação. O membro do MP reassumirá a ação somente em caso de negligência.",
+            "resposta":"C",
+            "comentario":"Havendo inércia do MP, o ofendido passa a ter legitimidade para oferecer a ação penal, tornando-se, assim, seu titular. O MP figurará como fiscal da lei, nesse caso e, caso o querelante seja negligente na condução da causa, poderá reassumir a titularidade.",
+            "lei": "sim",
+            "desc_lei": "Art. 29. Será admitida ação privada nos crimes de ação pública, se esta não for intentada no prazo legal, cabendo ao Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal."
+        },
+        {
+            "nro":"7",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – MPU – ANALISTA",
+            "pergunta":"Maria, vítima de estupro, comunicou o fato à autoridade policial na delegacia de polícia. Chamada, seis meses depois, para fazer o reconhecimento de um suspeito, Maria o identificou com segurança. Maria tem o prazo de seis meses para representar contra o suspeito, iniciando-se a contagem, inclusive, do dia em que fez o reconhecimento na delegacia de polícia.",
+            "resposta":"C",
+            "comentario":"O crime de estupro é crime de ação penal pública condicionada à representação. Neste caso, Maria tem o prazo de seis meses para oferecer sua representação, de forma a possibilitar que o MP ajuíze a denúncia. Este prazo de seis meses começa a correr no dia (inclusive) em que Maria toma conhecimento de quem é o autor da infração penal.",
+            "lei": "sim",
+            "desc_lei": "Art. 38. Salvo disposição em contrário, o ofendido, ou seu representante legal, decairá no direito de queixa ou de representação, se não o exercer dentro do prazo de seis meses, contado do dia em que vier a saber quem é o autor do crime, ou, no caso do art. 29, do dia em que se esgotar o prazo para o oferecimento da denúncia."
+        },
+        {
+            "nro":"8",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – MPU – ANALISTA",
+            "pergunta":"Maria, vítima de estupro, comunicou o fato à autoridade policial na delegacia de polícia. Chamada, seis meses depois, para fazer o reconhecimento de um suspeito, Maria o identificou com segurança. Caso Maria seja menor de dezoito anos de idade, cabe ao seu representante legal fazer a representação junto à autoridade policial no prazo legal, sob pena de decadência do direito.",
+            "resposta":"E",
+            "comentario":"Cabe ao seu representante legal fazer a representação junto à autoridade policial, não havendo, decadência, uma vez que Maria é menor de 18 anos, e contra os menores de 18 anos não corre prazo de prescrição nem prazo de decadência.",
+            "lei": "sim",
+            "desc_lei": "Art. 33. Se o ofendido for menor de 18 anos, ou mentalmente enfermo, ou retardado mental, e não tiver representante legal, ou colidirem os interesses deste com os daquele, o direito de queixa poderá ser exercido por curador especial, nomeado, de ofício ou a requerimento do Ministério Público, pelo juiz competente para o processo penal."
+        },
+        {
+            "nro":"9",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – PC/BA – INVESTIGADOR",
+            "pergunta":"A vítima que representa perante a autoridade policial queixa de crime de ação penal pública condicionada pode retratar-se até a prolação da sentença condenatória pelo juiz.",
+            "resposta":"E",
+            "comentario":"O item está completamente errado. Primeiro porque não se pode representar queixa, já que a queixa é espécie de ação penal, e deve ser AJUIZADA, ou seja, perante o Juiz. Segundo porque a queixa é sinônimo de ação penal privada, e não ação penal pública.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"10",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – TJ/DF – ANALISTA JUDICIÁRIO",
+            "pergunta":"Se o titular da ação penal deixa, sem expressa manifestação ou justificação do motivo, de incluir na denúncia algum fato investigado ou algum dos indiciados e o juiz recebe a denúncia, ocorre arquivamento indireto.",
+            "resposta":"E",
+            "comentario":"A questão dá o conceito do arquivamento IMPLÍCITO, que sequer é aceito pelo STF e pelo STJ, que entendem que o chamado “arquivamento implícito” é incompatível com o princípio da divisibilidade da ação penal pública, de forma que, neste caso, não há arquivamento em razão aos fatos ou aos indiciados não denunciados, podendo o MP oferecer outra denúncia posteriormente, para abarcar os fatos ou indiciados não incluídos na primeira denúncia, ou aditar a primeira. O arquivamento indireto, que é citado apenas por parte da Doutrina, ocorre quando o membro do MP deixa de oferecer denúncia por alegar que o Juiz é incompetente para julgar a causa.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"11",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – TJ/DF – ANALISTA JUDICIÁRIO",
+            "pergunta":"Uma vez apresentada, a representação de crime de ação penal pública somente pode ser retirada antes do oferecimento da denúncia, não se admitindo retratação da retratação.",
+            "resposta":"E",
+            "comentario":"O item começa correto, pois a representação pode ser retirada (retratação) antes do oferecimento da denúncia, conforme dispõe o art. 25 do CPP. Contudo, é possível a retratação da retratação, que consistiria, basicamente, numa nova representação. Não há vedação a que isso ocorra.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"12",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – TJ/DF – ANALISTA JUDICIÁRIO",
+            "pergunta":"Não se admite a renúncia do direito de representação.",
+            "resposta":"C",
+            "comentario":"A renúncia (manifestação expressa ou tácita no sentido de que se abre mão de um direito) só está prevista expressamente para a ação penal privada. Não há previsão de renúncia ao direito de representação, que é um direito que pode apenas não ser exercido, mas não renunciado, conforme entendimento doutrinário.",
+            "lei": "sim",
+            "desc_lei": "Art. 49. A renúncia ao exercício do direito de queixa, em relação a um dos autores do crime, a todos se estenderá."
+        },
+        {
+            "nro":"13",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – TJ/DF – ANALISTA JUDICIÁRIO – OFICIAL DE JUSTIÇA",
+            "pergunta":"A perempção, admitida tanto na ação penal privada quanto na pública, acarreta o perecimento da ação penal e a extinção da punibilidade do réu.",
+            "resposta":"E",
+            "comentario":"Embora seja causa de extinção da punibilidade (art. 107, IV do CP), somente se admite a perempção nas ações penais privadas, nunca na ação penal pública.",
+            "lei": "sim",
+            "desc_lei": "Art. 60. Nos casos em que somente se procede mediante queixa, considerarse-á perempta a ação penal: I - quando, iniciada esta, o querelante deixar de promover o andamento do processo durante 30 dias seguidos; II - quando, falecendo o querelante, ou sobrevindo sua incapacidade, não comparecer em juízo, para prosseguir no processo, dentro do prazo de 60 (sessenta) dias, qualquer das pessoas a quem couber fazê-lo, ressalvado o disposto no art. 36; III - quando o querelante deixar de comparecer, sem motivo justificado, a qualquer ato do processo a que deva estar presente, ou deixar de formular o pedido de condenação nas alegações finais; IV - quando, sendo o querelante pessoa jurídica, esta se extinguir sem deixar sucessor."
+        },
+        {
+            "nro":"14",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2012 – TJ-AC – TÉCNICO JUDICIÁRIO",
+            "pergunta":"O ofendido, ou seu representante legal, decairá no direito de queixa ou de representação se não o exercer dentro do prazo de um ano, contado do dia em que souber quem é o autor do crime.",
+            "resposta":"E",
+            "comentario":"O item está errado. Vejamos a redação do art. 38 do CPP.",
+            "lei": "sim",
+            "desc_lei": "Art. 38. Salvo disposição em contrário, o ofendido, ou seu representante legal, decairá no direito de queixa ou de representação, se não o exercer dentro do prazo de seis meses, contado do dia em que vier a saber quem é o autor do crime, ou, no caso do art. 29, do dia em que se esgotar o prazo para o oferecimento da denúncia. Vemos, assim, que o prazo decadencial é de seis meses, e não de um ano."
+        },
+        {
+            "nro":"15",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2012 – TJ-AC – TÉCNICO JUDICIÁRIO",
+            "pergunta":"O Ministério Público não poderá desistir da ação penal.",
+            "resposta":"C",
+            "comentario":"O item está correto. Trata-se do princípio da indisponibilidade da ação penal pública, previsto no art. 42 do CPP.",
+            "lei": "sim",
+            "desc_lei": "Art. 42. O Ministério Público não poderá desistir da ação penal."
+        },
+        {
+            "nro":"16",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2012 – TJ-AC – TÉCNICO JUDICIÁRIO",
+            "pergunta":"A renúncia ao exercício do direito de queixa, em relação a um dos autores do crime, será estendida a todos.",
+            "resposta":"C",
+            "comentario":"O item está correto. Aqui temos o princípio da indivisibilidade da ação penal privada. Assim, se o ofendido renuncia ao direito de queixa em relação a um dos infratores, esta renúncia se estende a todos, nos termos do art. 49 do CPP.",
+            "lei": "sim",
+            "desc_lei": "Art. 49. A renúncia ao exercício do direito de queixa, em relação a um dos autores do crime, a todos se estenderá."
+        },
+        {
+            "nro":"17",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2012 – TJ-AC – TÉCNICO JUDICIÁRIO",
+            "pergunta":"Depois de recebida a denúncia, a representação será irretratável.",
+            "resposta":"E",
+            "comentario":"O item está errado. A representação somente poderá ser retratada até o oferecimento da denúncia, e não até seu recebimento.",
+            "lei": "sim",
+            "desc_lei": "Art. 25. A representação será irretratável, depois de oferecida a denúncia."
+        },
+        {
+            "nro":"18",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2012 – TJ-AC – TÉCNICO JUDICIÁRIO",
+            "pergunta":"Se o ofendido for menor de vinte e um anos e maior de dezoito anos de idade, o direito de queixa poderá ser exercido por ele ou por seu representante legal.",
+            "resposta":"E",
+            "comentario":"O item está errado. O art. 34 do CPP até prevê isso. Contudo, esse artigo perdeu sua eficácia, pois ele surgiu quando a maioridade civil era atingida aos 21 anos (e a maioridade penal aos 18). Atualmente, a maioridade civil é alcançada aos 18 anos, de forma que se o ofendido possui mais de 18 anos somente ele poderá exercer o direito de queixa.",
+            "lei": "sim",
+            "desc_lei": "Art. 34. Se o ofendido for menor de 21 e maior de 18 anos, o direito de queixa poderá ser exercido por ele ou por seu representante legal."
+        },
+        {
+            "nro":"19",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2012 – PEFOCE – TODOS OS CARGOS",
+            "pergunta":"A renúncia e o perdão extinguem a punibilidade dos crimes de ação privada propriamente dita. A renúncia é ato unilateral e ocorre antes do início da ação penal. O perdão é ato bilateral e depende do aceite do querelado para produzir efeitos. Tanto a renúncia quanto o perdão, em relação a um dos querelados, se estenderá aos demais.",
+            "resposta":"C",
+            "comentario":"O item está correto. Ambos são institutos que conduzem à extinção da punibilidade nos crimes de ação privada. Contudo, a renúncia é ato unilateral e anterior ao processo criminal, nos termos do art. 49 do CPP. O perdão, por sua vez, é oferecido depois de ajuizada a ação penal, e deve ser aceito pelo infrator, sob pena de não produzir efeitos. Além disso, a renúncia e o oferecimento de perdão, quando realizados em relação a apenas um dos infratores a todos se estendem, nos termos dos arts. 49 e 51 do CPP. Em relação ao perdão, porém, se algum dos infratores recusar, em face dele não produzirá efeitos.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"20",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2013 – DPE-DF – DEFENSOR PÚBLICO",
+            "pergunta":"Conforme jurisprudência do STJ, nos casos de ação penal privada, não incide o ônus da sucumbência por aplicação analógica do CPC.",
+            "resposta":"E",
+            "comentario":"Trata-se de questão difícil. O STJ, porém, firmou o entendimento no sentido de que em se tratando de ação penal privada, aquele que restar vencido deverá arcar com os ônus da sucumbência, por analogia ao art. 20 do CPC.",
+            "lei": "sim",
+            "desc_lei": "SÚMULA VINCULANTE 10/STF. AGRAVO REGIMENTAL. RECURSO ESPECIAL. CALÚNIA, INJÚRIA E DIFAMAÇÃO. AÇÃO PENAL PRIVADA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ATUAÇÃO DA DEFESA. PRINCÍPIOS DA SUCUMBÊNCIA E DA CAUSALIDADE. ADVOGADO EM CAUSA PRÓPRIA. AUSÊNCIA DE BASE DE CÁLCULO. APRECIAÇÃO EQUITATIVA. PRINCÍPIOS CONSTITUCIONAIS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. INVIABILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONAL. 1. É possível haver condenação em honorários advocatícios em ação penal privada. Conclusão que se extrai da incidência dos princípios da sucumbência e da causalidade, o que permite a aplicação analógica do art. 20 do Código de Processo Civil, conforme previsão constante no art. 3º do Código de Processo Penal. Precedentes."
+        },
+        {
+            "nro":"21",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2014 – TJ/SE - ANALISTA",
+            "pergunta":"Ainda que não tenha legitimidade para, em ação penal de iniciativa privada, aditar a queixa com o intuito de nela incluir outros réus, o MP poderá acrescentar ao processo elementos que influam na fixação da pena, no exercício da função de custos legis.",
+            "resposta":"C",
+            "comentario":"Este é o entendimento adotado pelo STJ: (...) III - Nos termos do artigo 45 do CPP, a queixa poderá ser aditada pelo Ministério Público, ainda que se trate de ação penal privativa do ofendido, desde que não proceda à inclusão de co-autor ou partícipe, tampouco inove quanto aos fatos descritos, hipóteses, por sua vez, inocorrentes na espécie.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro":"22",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2014 – TJ/SE - ANALISTA",
+            "pergunta":"Em virtude do princípio in dubio pro societate, o juiz não está autorizado a rejeitar denúncia por falta de lastro probatório mínimo que demonstre a idoneidade e a verossimilhança da acusação.",
+            "resposta":"E",
+            "comentario":"Item errado. A ausência de tais elementos caracteriza a ausência de JUSTA CAUSA e o Juiz poderá deixar de receber a denúncia (rejeitá-la) por este motivo.",
+            "lei": "sim",
+            "desc_lei": "Art. 395. A denúncia ou queixa será rejeitada quando: (Redação dada pela Lei nº 11.719, de 2008). (...) III - faltar justa causa para o exercício da ação penal. (Incluído pela Lei nº 11.719, de 2008)."
+        },
+        {
+            "nro":"23",
+            "disciplina":"Direito Processual Penal",
+            "materia":"Ação Penal",
+            "banca":"CESPE/2014 – TJ/SE – TÉCNICO",
+            "pergunta":"Salvo disposição expressa em contrário, o direito de queixa ou de representação do ofendido decai no prazo de seis meses, contado do dia em que tiver ocorrido o crime.",
+            "resposta":"E",
+            "comentario":"Item errado, pois o prazo decadencial começa a correr na data em que o ofendido passa a ter conhecimento de quem é o infrator, nos termos do art. 103 do CP, bem como art. 38 do CPP.",
+            "lei": "",
+            "desc_lei": ""
+        }
+        
+    ]
+}

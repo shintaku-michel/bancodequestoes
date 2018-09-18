@@ -1,0 +1,213 @@
+{
+    "questoes": [
+        {
+            "nro": "1",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2013 - IBAMA - ANALISTA AMBIENTAL",
+            "pergunta":"Quando um servidor define fins, prioriza valores e delimita regras de conduta conforme sua concepção particular de bem, ele age em consonância com princípios da ética pública.",
+            "resposta":"E",
+            "comentario":"O servidor não pode definir seus parâmetros de conduta apenas pela sua concepção particular de bem, mas de acordo com os princípios e regras éticas adotadas no serviço público.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "2",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2012 - TJ/RR - TÉCNICO",
+            "pergunta":"Os dirigentes de organizações públicas que estabelecem regras claramente explicitadas, consistentes e que sejam imparcialmente executadas manifestam conduta ética baseada nos princípios de justiça, equidade e imparcialidade.",
+            "resposta":"C",
+            "comentario":"Perceba que a justiça, a equidade e a imparcialidade são princípios, e não regras, não é mesmo?",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "3",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2012 - TJ/RR - ANALISTA",
+            "pergunta":"Adota conduta ética, no exercício de seu cargo, o servidor público que preserva seus valores pessoais bem como os da organização onde atua.",
+            "resposta":"C",
+            "comentario":"O respeito aos valores pessoais do servidor é importante, mas ele deve observar os valores e preceitos éticos da organização.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "4",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2007 - ANVISA - TÉCNICO ADMINISTRATIVO",
+            "pergunta":"O servidor público jamais pode desprezar o elemento ético de sua conduta, embora, em algumas situações, tenha de decidir entre o que é legal e ilegal.",
+            "resposta":"C",
+            "comentario":"Isso implica, no entendimento da Comissão Especial, a adoção da tradicional doutrina segundo a qual o agente administrativo, como ser humano dotado da capacidade de atuar, deve, necessariamente, distinguir o Bem do Mal, o honesto do desonesto, não podendo desprezar o elemento ético de sua conduta. Assim, não terá que decidir somente entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas também entre o honesto e o desonesto.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "5",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"FUNRIO/2009 - MDIC - ANALISTA TÉCNICO ADMINISTRATIVO",
+            "pergunta":"O servidor público não poderá jamais desprezar o elemento ético de sua conduta. Assim terá que decidir principalmente entre o honesto e o desonesto.",
+            "resposta":"C",
+            "comentario":"Mais uma vez surge o mesmo trecho da exposição de motivos.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "6",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2006 - CAIXA - TÉCNICO BANCÁRIO",
+            "pergunta":"O servidor público não pode desprezar o elemento ético de sua conduta. Assim, o servidor público tem que decidir entre o legal e o ilegal, o conveniente e o inconveniente, o oportuno e o inoportuno, bem como entre o honesto e o desonesto.",
+            "resposta":"C",
+            "comentario":"Exatamente o que diz o texto de exposição de motivos.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "7",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"UNIVERSA/2010 - MTUR - AGENTE ADMINISTRATIVO",
+            "pergunta":"Se um servidor houver de avaliar a prática de ato inerente à sua função e verificar que se trata de ato legal e oportuno, saberá que, automaticamente, terá sido atendido o elemento ético do ato.",
+            "resposta":"E",
+            "comentario":"Como você já está cansado de saber, o servidor tem que decidir não apenas entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas também entre o honesto e o desonesto.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "8",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"UNIVERSA/2010 - MTUR - AGENTE ADMINISTRATIVO",
+            "pergunta":"Para que um ato atenda aos princípios éticos, não basta levar em conta o aspecto da economicidade.",
+            "resposta":"C",
+            "comentario":"Isso mesmo! Ao avaliar os aspectos éticos de um ato, o servidor deve ir muito além da legalidade ou mesmo da economicidade, sempre buscando a realização do bem comum.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "9",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"ESAF/2006 - CGU - ANALISTA DE FINANÇAS",
+            "pergunta":"De acordo com o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, aprovado pelo Decreto n. 1.171, de 22.6.1994 o servidor público não poderá jamais desprezar o elemento ético de sua conduta. Assim, não terá que decidir somente entre o legal e o ilegal, o justo e o injusto, o conveniente e o inconveniente, o oportuno e o inoportuno, mas principalmente entre o honesto e o desonesto, consoante as regras contidas no art. 37, caput, e § 4o, da Constituição Federal. Esse enunciado expressa um valor ético destinado a orientar a prática dos atos administrativos.",
+            "resposta":"C",
+            "comentario":"O enunciado mencionado, que é parte da exposição de motivos do Código de Ética, traz um valor ético, e não outros aspectos relacionados à legalidade ou discricionariedade dos atos administrativos.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "10",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2014 - POLÍCIA FEDERAL - AGENTE",
+            "pergunta":"De acordo com o Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal, tratar mal um cidadão significa causar-lhe dano moral.",
+            "resposta":"C",
+            "comentario":"Exato! A noção de dano moral está na exposição de motivos, segundo a qual o Código de Ética tem por fundamentos básicos a probidade, decoro no exercício da função pública e os direitos da cidadania de não sofrer dano moral enquanto usuária desses mesmos serviços.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "11",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2015 - TCE-RN - ANALISTA",
+            "pergunta":"A efetivação da cidadania e a consciência coletiva da cidadania são indicadores do desenvolvimento moral e ético de uma sociedade.",
+            "resposta":"C",
+            "comentario":"Os valores da moral estão bastante ligados à noção de coletividade e à vida em sociedade. Em sua grande maioria, esses valores partem de medidas de estabilização social, por meio das quais as esferas individuais são definidas e protegidas em relação à atuação das outras pessoas. Por isso mesmo podemos dizer que a cidadania e a consciência coletiva estão relacionadas ao desenvolvimento ético.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "12",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2014 - ICMBio - TÉCNICO",
+            "pergunta":"O servidor que realiza suas atividades com esmero e em prol dos cidadãos contribui para a promoção da cidadania.",
+            "resposta":"C",
+            "comentario":"Você já sabe que a noção de cidadania está diretamente relacionada à consciência coletiva, certo? Pois bem, o servidor que confere ao cidadão o respeito ao qual este tem direito respeita sua esfera individual e demonstra que tem consciência coletiva e, portanto, promove a cidadania.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "13",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2013 - DEPEN - TÉCNICO DE APOIO",
+            "pergunta":"Configura um dos elementos indispensáveis para o exercício da cidadania o efetivo conhecimento a respeito dos direitos.",
+            "resposta":"E",
+            "comentario":"Veja só o que a assertiva está dizendo... se o conhecimento jurídico fosse necessário, ninguém poderia exercer a cidadania se não tivesse alguma formação jurídica. Na realidade o exercício da cidadania depende muito mais da noção de coletividade do que de conhecimento jurídico.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "14",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2013 - DEPEN - TÉCNICO DE APOIO",
+            "pergunta":"A atitude de ceder um assento a um idoso em um transporte coletivo constitui um exemplo de comportamento relacionado à cidadania, cuja concepção comporta não apenas a titularidade de direitos pelo indivíduo, mas também a transformação de valores e princípios em atitudes que atendam aos interesses coletivos.",
+            "resposta":"C",
+            "comentario":"A pessoa que cede assento a um idoso mostra que tem consciência em relação à coletividade, pois respeita a esfera de direitos e a individualidade de outras pessoas, além da sua própria. Essa consciência, porém, de nada adiantaria se a pessoa não a colocasse em prática, certo?",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "15",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2013 - ICMBio - TÉCNICO",
+            "pergunta":"Vive orientada pela ética a pessoa que pauta sua vida na busca de auxiliar as pessoas que a cercam de modo que tanto ela quanto essas pessoas vivam da melhor maneira possível.",
+            "resposta":"C",
+            "comentario":"Perfeito! O auxílio dirigido a outras pessoas nada mais é do que a noção de coletividade que é exigida para o verdadeiro exercício da cidadania.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "16",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2013 - ANTT - ANALISTA ADMINISTRATIVO",
+            "pergunta":"O exercício do cargo com zelo e dedicação, além de dever do servidor, representa um ato de cidadania, na medida em que integra a vida particular do indivíduo e interfere no seu relacionamento com a sociedade.",
+            "resposta":"C",
+            "comentario":"O servidor público que cumpre seus deveres é, além de um “empregado” responsável, também um cidadão, na medida em que compreende que seus deveres se revertem em benefício de toda a sociedade.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "17",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2014 - TCDF -TÉCNICO",
+            "pergunta":"Evitar a corrupção e denunciá-la sempre que dela tiver conhecimento é dever do cidadão, visto que cidadania implica não apenas o gozo de direitos, mas também o cumprimento de obrigações amparadas nas normativas legais e morais da sociedade.",
+            "resposta":"C",
+            "comentario":"Se a pessoa tem senso de coletividade – requisito para o exercício da cidadania – certamente compreenderá que a corrupção deve ser combatida e evitada. Além disso, há a obrigação legal imposta a todos de combater essas condutas ilícitas.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "18",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"CESPE/2014 - CADE - ANALISTA",
+            "pergunta":"O servidor público, no uso de suas atribuições, deve ser um vetor da promoção da cidadania, executando com esmero as atividades que lhes são atribuídas, contribuindo, assim, para um serviço público efetivo a favor dos cidadãos.",
+            "resposta":"C",
+            "comentario":"O servidor público deve, além de cumprir seus deveres, promover a cidadania.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "19",
+            "disciplina":"Ética",
+            "materia":"Ética - princípios e valores, ética e democracia, ética e função pública e ética no setor público.",
+            "banca":"FUNCAB/2015 - MPOG - ARQUIVISTA",
+            "pergunta":"A dignidade é o principal valor que norteia a ética do servidor público.",
+            "resposta":"E",
+            "comentario":"O próprio Código de Ética estabelece como principais valores que norteiam o serviço público a dignidade, o decoro, o zelo, a eficácia e a consciência dos princípios morais. Não se trata apenas da dignidade, mas de uma série de valores que devem ser sempre orientados para o bem comum.",
+            "lei": "",
+            "desc_lei": ""
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "questoes": [
+        {
+            "nro": "01",
+            "disciplina":"Direito Constitucional",
+            "materia":"Correção da Prova",
+            "banca":"CESPE/2018 - POLÍCIA FEDERAL",
+            "pergunta":"Em regra, indivíduo civilmente identificado não será submetido à identificação criminal.",
+            "resposta":"C",
+            "comentario":"O civilmente identificado, não será submetido à indentificação criminal. Salvo as situações previstas em lei. ",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "02",
+            "disciplina":"Direito Constitucional",
+            "materia":"Correção da Prova",
+            "banca":"CESPE/2018 - POLÍCIA FEDERAL",
+            "pergunta":"Apesar de o ordenamento jurídico vedar a extradição de brasileiros, brasileiro devidamente naturalizado poderá ser extraditado se comprovado seu envolvimento com tráfico ilícito de entorpecentes.",
+            "resposta":"C",
+            "comentario":"É o que determina a lei. O brasileiro naturalizado pode ser extraditado em caso de crime comum praticado antes da naturalização ou caso seja comprovado o seu envolvimento com tráfico ilícito de entorpecentes e drogas afins.  ",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "03",
+            "disciplina":"Direito Constitucional",
+            "materia":"Correção da Prova",
+            "banca":"CESPE/2018 - POLÍCIA FEDERAL",
+            "pergunta":"Gilberto, brasileiro nato, completou sessenta e um anos de idade no mês de janeiro de 2018. Neste mesmo ano, transitou em julgado condenação criminal contra ele, tendo sido arbitrada, entre outras sanções, pena privativa de liberdade. Em razão de sua idade, o ato de votar nas eleições de 2018 é facultativo para Gilberto.",
+            "resposta":"E",
+            "comentario":"O voto é facultativo para pessoas acima de 70 anos, menores de 18 e analfabetos.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "04",
+            "disciplina":"Direito Constitucional",
+            "materia":"Correção da Prova",
+            "banca":"CESPE/2018 - POLÍCIA FEDERAL",
+            "pergunta":"Gilberto, brasileiro nato, completou sessenta e um anos de idade no mês de janeiro de 2018. Neste mesmo ano, transitou em julgado condenação criminal contra ele, tendo sido arbitrada, entre outras sanções, pena privativa de liberdade. O processo criminal transitado em julgado é hipótese constitucional para a cassação dos direitos políticos de Gilberto pelo tempo de duração dos efeitos da condenação.",
+            "resposta":"E",
+            "comentario":"Não há cassação de direitos políticos no ordenamento jurídico brasileiro. Existe a perda ou suspensão, neste caso, aplica-se a suspensão dos direitos políticos.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "05",
+            "disciplina":"Direito Constitucional",
+            "materia":"Correção da Prova",
+            "banca":"CESPE/2018 - POLÍCIA FEDERAL",
+            "pergunta":"No que se refere a defesa do Estado e das instituições democráticas. Na vigência do estado de defesa, é legal a prisão de indivíduo por até 30 dias, independente de autorização do Poder Judiciário.",
+            "resposta":"E",
+            "comentario":"Na vigência do estado de defesa, se admite, a prisão por até 10 (dez) dias sem a autorização do Poder Judiciário.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "06",
+            "disciplina":"Direito Constitucional",
+            "materia":"Correção da Prova",
+            "banca":"CESPE/2018 - POLÍCIA FEDERAL",
+            "pergunta":"O direito de sigilo de correspondência é constitucionalmente previsto, mas poderá ser restringido nas hipóteses de estado de defesa e de estado de sítio.",
+            "resposta":"C",
+            "comentario":"O direito de correspondência pode ser restringido nos caso de estado de defesa e estado de sítio.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "07",
+            "disciplina":"Direito Constitucional",
+            "materia":"Correção da Prova",
+            "banca":"CESPE/2018 - POLÍCIA FEDERAL",
+            "pergunta":"Compete a Polícia Federal exercer, com exclusividade as funções de polícia judiciária da União.",
+            "resposta":"C",
+            "comentario":"Correto! A Polícia Federal exerce com exclusividade a função de polícia judiciária da União.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "08",
+            "disciplina":"Direito Constitucional",
+            "materia":"Correção da Prova",
+            "banca":"CESPE/2018 - POLÍCIA FEDERAL",
+            "pergunta":"A Polícia Federal tem a atribuição de apurar infrações que exijam represão uniforme e tenham repercusão internacional. Infrações que exijam repressão uniforme mas que tenham repercusão interestadual, devem ser apuradas pelas polícias civis e militares.",
+            "resposta":"E",
+            "comentario":"Tanto para infrações internacionais ou interestadual, cabe a Polícia Federal fazer a apuração.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "09",
+            "disciplina":"",
+            "materia":"Correção da Prova",
+            "banca":"CESPE/2018 - POLÍCIA FEDERAL",
+            "pergunta":"",
+            "resposta":"",
+            "comentario":"",
+            "lei": "",
+            "desc_lei": ""
+        }
+    ]
+}

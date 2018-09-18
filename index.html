@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Banco de Questões</title>
+  <meta name="description" content="Source code generated using layoutit.com">
+  <meta name="Michel Shintaku" content="Brain">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
+  <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <h3 class="hs">
+      <span id="altera-json-icon" data-toggle="modal" data-target="#exampleModal">
+        <i class="fab fa-stack-overflow"></i> Banco de Questões
+      </span>
+    </h3>
+    <hr class="divider">
+
+    <div class="row" id="resultado-questoes">
+      <div class="col-md-2 offset-md-2 certo">
+        <span id="count-certo">0</span>
+        <span class="texto-count">Certo</span>
+      </div>
+      <div class="col-md-2 errado">
+        <span id="count-errado">0</span>
+        <span class="texto-count">Errado</span>
+      </div>
+      <div class="col-md-2 nao-resp">
+        <span id="count-nao-respondeu">0</span>
+        <span class="texto-count">não respondeu</span>
+      </div>
+      <div class="col-md-2 pontos">
+        <span id="count-pontos">0</span>
+        <span class="texto-count">Pontos</span>
+      </div>
+    </div>
+
+    <div class="row">
+      <div id="questoes-wrapper" class="col-md-12"></div>
+      <div class="col-md-12 qtd-questoes">
+        <span id='ctQ'></span>
+      </div>
+      <div class="col-md-12">
+        <ul id="resultado-gab"></ul>
+        <div id="editor"></div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade bd-example-modal-lg" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog modal-md" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Selecione uma disciplina</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-row">
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Direito Administrativo</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                    <label class="form-check-label" for="exampleRadios1">
+                      Direito Administrativo
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Direito Constitucional</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
+                    <label class="form-check-label" for="exampleRadios2">
+                      Direito Constitucional
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Direitos Humanos</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios3" value="option3">
+                    <label class="form-check-label" for="exampleRadios3">
+                      Direitos Humanos
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Direito Processual Penal</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios4" value="option4">
+                    <label class="form-check-label" for="exampleRadios4">
+                      Todas
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios5" value="option5">
+                    <label class="form-check-label" for="exampleRadios5">
+                      Ação Penal
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios6" value="option6">
+                    <label class="form-check-label" for="exampleRadios6">
+                      Jurisdição e Competência
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios7" value="option7">
+                    <label class="form-check-label" for="exampleRadios7">
+                      Dos Sujeitos do Processo
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Direito Penal</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios8" value="option8">
+                    <label class="form-check-label" for="exampleRadios8">
+                      Direito Penal
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Ética</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios9" value="option9">
+                    <label class="form-check-label" for="exampleRadios9">
+                      Todas
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios10" value="option10">
+                    <label class="form-check-label" for="exampleRadios10">
+                      Ética e Moral
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios11" value="option11">
+                    <label class="form-check-label" for="exampleRadios11">
+                      Princípios e valores, democracia, função pública e setor público
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios12" value="option12">
+                    <label class="form-check-label" for="exampleRadios12">
+                      Decreto 1.171/1994
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Física</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios13" value="option13">
+                    <label class="form-check-label" for="exampleRadios13">
+                      Física
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Informática</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios14" value="option14">
+                    <label class="form-check-label" for="exampleRadios14">
+                      Informática
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Legislação DPRF</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios15" value="option15">
+                    <label class="form-check-label" for="exampleRadios15">
+                      Todas
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios16" value="option16">
+                    <label class="form-check-label" for="exampleRadios16">
+                      Decreto 1.655/1995
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios17" value="option17">
+                    <label class="form-check-label" for="exampleRadios17">
+                      Lei 9.654/1998
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios18" value="option18">
+                    <label class="form-check-label" for="exampleRadios18">
+                      Decreto Federal no 6.061/2007
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Legislação Especial</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios19" value="option19">
+                    <label class="form-check-label" for="exampleRadios19">
+                      Legislação Especial
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Matemática</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios20" value="option20">
+                    <label class="form-check-label" for="exampleRadios20">
+                      Matemática
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Português</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios21" value="option21">
+                    <label class="form-check-label" for="exampleRadios21">
+                      Português
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Noções de Administração</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios22" value="option22">
+                    <label class="form-check-label" for="exampleRadios22">
+                      Noções de Administração
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Noções de Estatística</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios23" value="option23">
+                    <label class="form-check-label" for="exampleRadios23">
+                      Noções de Estatística
+                    </label>
+                  </div>
+                </div>
+
+                <div class="form-group col-md-12">
+                  <p class="open-options"><i class="fas fa-chevron-circle-up"></i> Simulados</p>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios24" value="option24">
+                    <label class="form-check-label" for="exampleRadios24">
+                      Polícia Federal 2018
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button id="altera-json" type="button" class="btn btn-primary" data-dismiss="modal">Alterar questões</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+  <script src="js/scripts.js"></script>
+  <!--  <script src="js/jspdf.js"></script> -->
+</body>
+
+</html>

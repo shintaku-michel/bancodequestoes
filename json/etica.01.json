@@ -1,0 +1,224 @@
+{
+    "questoes": [
+        {
+            "nro": "1",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2015 - MPU - TÉCNICO",
+            "pergunta":"A ética é um ramo da filosofia que estuda a moral, os diferentes sistemas públicos de regras, seus fundamentos e suas características.",
+            "resposta":"C",
+            "comentario":"Esta é uma precisa definição do que é a Ética, seu ramo de estudo e sua relação com a moral.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "2",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2015 - DEPEN - AGENTE",
+            "pergunta":" Ética e moral são termos que têm raízes históricas semelhantes e são considerados sinônimos, uma vez que ambos se referem a aspectos legais da conduta do cidadão.",
+            "resposta":"E",
+            "comentario":"São conceitos diferentes, apesar de frequentemente confundidos. A palavra ética vem do grego ethos, que significa caráter, modo de ser, é permanente e universal. O vocábulo moral se originou da tradução do ethos para o latim mos (ou mores, no plural), que significa costume, é temporária e cultural.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "3",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2015 - MPU - TÉCNICO",
+            "pergunta":" Moral pode ser definida como todo o sistema público de regras próprio de diferentes grupos sociais, que abrange normas e valores que são aceitos e praticados, como certos e errados.",
+            "resposta":"C",
+            "comentario":"Esta é uma perfeita definição de moral, que trata das regras observadas por um determinado grupo social, num dado momento histórico.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "4",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2014 - ANTAQ - ANALISTA ADMINISTRATIVO",
+            "pergunta":"A ética é a ciência do comportamento moral dos homens em sociedade.",
+            "resposta":"C",
+            "comentario":"Perfeito! Ética é ciência, e seu objeto de estudo é a moral.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "5",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2014 - SUFRAMA - ANALISTA",
+            "pergunta":"Entre outros aspectos, a moral pessoal é formada pela cultura e tradição do grupo ao qual o indivíduo está inserido.",
+            "resposta":"C",
+            "comentario":"A moral está diretamente relacionada com a cultura e a tradição, num determinado grupo, num dado momento histórico.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "6",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2013 - INPI - ANALISTA",
+            "pergunta":"Ética é a parte da filosofia que estuda os fundamentos da moral e os princípios ideais da conduta humana.",
+            "resposta":"C",
+            "comentario":"Esta é uma definição perfeita de Ética. Trata-se de uma parte da filosofia que se ocupa de estudar a moral.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "7",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"IADES/2011 - PGDF - TÉCNICO JUDICIÁRIO",
+            "pergunta":"A moral é mutável e varia de acordo com o desenvolvimento de cada sociedade. Ela norteia os valores éticos na Administração Pública.",
+            "resposta":"C",
+            "comentario":"Exatamente o que afirma a questão.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "8",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CONSULPLAN/2008 - ATENDENTE COMERCIAL",
+            "pergunta":"Em seu sentido mais amplo, a ética tem sido entendida como a ciência da conduta humana perante o ser e seus semelhantes. Envolve: Os estudos de aprovação ou desaprovação da ação dos homens e a consideração de valor como equivalente de uma medição do que é real e voluntarioso no campo das ações virtuosas.",
+            "resposta":"C",
+            "comentario":"O objeto de estudo da Ética é justamente o sistema de valores humano, relacionado à maneira como as pessoas tomam decisões e aquilo que elas consideram certo ou errado.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "9",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"FCC/2011 - NOSSA CAIXA DESENVLVIMENTO",
+            "pergunta":"Virtude deriva do latim virtus ,que significa uma qualidade própria da natureza humana; significa, de modo geral, praticar o bem usando a liberdade com responsabilidade constantemente.",
+            "resposta":"C",
+            "comentario":"A virtude congrega todos os aspectos do homem de bem.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "10",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2010 - ANEEL - TÉCNICO",
+            "pergunta":"Importante característica da moral, o que a torna similar à lei, é o fato de ser absoluta e constituir um padrão para julgamento dos atos.",
+            "resposta":"E",
+            "comentario":"A moral não é universal e nem absoluta, não tem os mesmos valores em todos os lugares e épocas",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "11",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2010 - ANEEL - TÉCNICO",
+            "pergunta":"A ética tem como objetivo fundamental levar a modificações na moral, com aplicação universal, guiando e orientando racionalmente e do melhor modo a vida humana.",
+            "resposta":"C",
+            "comentario":"Vimos que a ética pretende ter um caráter científico, e seu objeto de estudo são as ideias e atitudes humanas relacionadas à moral e, de uma forma mais ampla, à busca da felicidade.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "12",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2010 - TRE/BA - TÉCNICO JUDICIARIO",
+            "pergunta":"Apesar de estritamente relacionadas, ética e moral não se confundem. No entanto, os princípios éticos pressupõem determinadas regras morais de comportamento.",
+            "resposta":"E",
+            "comentario":"O objetivo principal da moral é a prescrição de conduta, enquanto a ética busca compreender o comportamento humano relacionado à moral e à busca pela felicidade. Os princípios morais são regras, enquanto os princípios éticos são apenas orientadores para essas regras.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "13",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2010 - AGU - CONTADOR",
+            "pergunta":"Os conceitos e valores tradicionais da moral não são universais nem estabelecidos objetivamente, mas têm suas origens em um momento histórico e em uma cultura específicos, servindo a certos interesses que vão sendo esquecidos com o tempo.",
+            "resposta":"C",
+            "comentario":"Vimos e revimos que os conceitos relativos à moral não são universais e nem objetivos, mas mudam de acordo com a época e local em que são aplicados.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "14",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2010 - CAIXA ECONÔMICA FEDERAL - TÉCNICO BANCÁRIO",
+            "pergunta":"Pessoas são caracterizadas, entre outras coisas, por suas virtudes e pelos seus vícios, sendo que ambos pressupõem valores que, se não forem traduzidos em ações, perdem seu sentido.",
+            "resposta":"C",
+            "comentario":"O vício é o contrário da virtude, segundo Aristóteles. Por outro lado, a virtude está relacionada ao agir, ao modo de ser. Por essa razão, não é errado dizer que tanto os vícios quanto as virtudes perdem sentido se não forem transformados em ação.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "15",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2010 - AGU - AGENTE ADMINISTRATIVO",
+            "pergunta":"A ética representa uma abordagem sobre as constantes morais, ou seja, refere-se àquele conjunto de valores e costumes mais ou menos permanente no tempo e no espaço.",
+            "resposta":"C",
+            "comentario":"A ética é uma reflexão filosófica sobre a moral, e também tem por função influenciar o estabelecimento do sistema de valores humano. Apenas chamo sua atenção para a utilização da expressão “constantes morais”.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "16",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2010 - AGU - AGENTE ADMINISTRATIVO",
+            "pergunta":"A ética ocupa-se de questões subjetivas, abstratas e essencialmente de interesse particular do indivíduo, sem relação com valores ou condutas sociais.",
+            "resposta":"E",
+            "comentario":"Como você já sabe muito bem, tanto a ética quanto a moral ocupam-se da conduta humana: enquanto a moral prescreve a conduta, a ética busca compreendê-la.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "17",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2010 - AGU - CONTADOR",
+            "pergunta":"A ética tem por objetivo a determinação do que é certo ou errado, bom ou mau em relação às normas e valores adotados por uma sociedade.",
+            "resposta":"E",
+            "comentario":"Estabelecer o que é certo e o que é errado, e qual conduta deve ser praticada ou não, é a atividade de prescrição da conduta. Já vimos e revimos que a ética não prescreve conduta, mas apenas busca compreendê-la. O papel prescritivo é da moral.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "18",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"CESPE/2010 - CAIXA ECONÔMICA FEDERAL - TÉCNICO BANCÁRIO",
+            "pergunta":"A partir do estudo da ética, pode-se considerar uma visão utilitarista, em que a verdade de uma proposição consiste no fato de que ela é útil, tendo alguma espécie de êxito ou satisfação.",
+            "resposta":"C",
+            "comentario":"O utilitarismo tem fundamento em Aristóteles e na importância que ele dá à ação humana. Esta é a alternativa correta.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "19",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"FUNCAB/2016 - SEGEP-MA - AGENTE PENITENCIÁRIO",
+            "pergunta":"A moral diferencia-se da ética no sentido de que esta tende a julgar o comportamento moral de cada indivíduo no seu meio. No entanto, ambas buscam o bem-estar social.",
+            "resposta":"C",
+            "comentario":"Correto! A questão traduz perfeitamente os principais aspectos que diferenciam a ética da moral.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "20",
+            "disciplina":"Ética",
+            "materia":"Ética e Moral",
+            "banca":"FUNCAB/2016 - SEGEP-MA - AGENTE PENITENCIÁRIO",
+            "pergunta":"A ética é construída por uma sociedade com base nos valores econômicos, financeiros e históricos.",
+            "resposta":"E",
+            "comentario":"Nosso erro aqui está na alternativa A, pois a ética não tem relação (ao menos não diretamente) com os valores econômicos e financeiros de uma sociedade, mas sim com os valores morais, sociais e antropológicos.",
+            "lei": "",
+            "desc_lei": ""
+        }
+    ]
+}
