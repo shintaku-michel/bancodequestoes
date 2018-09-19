@@ -127,6 +127,7 @@ span.gab-resposta, span.desc-resposta, h6.card-pergunta.mb-2 {
 }
 h5.card-banca {
     margin: 0;
+    text-transform: uppercase;
 }
 span.disciplina {
     color: #bbbbbb;
