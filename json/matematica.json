@@ -1,14 +1,155 @@
 {
     "questoes": [
         {
+            "nro": "01",
             "disciplina":"Matemática",
-            "materia":"Matéria",
-            "banca":"Banca",
-            "pergunta":"Pergunta",
-            "resposta":"Resposta",
-            "comentario":"Comentário",
+            "materia":"Conjuntos",
+            "banca":"CESPE/2008 - SEGER/ES",
+            "pergunta":"Uma conferência internacional reunirá representantes dos seguintes países: Alemanha, Argentina, Bolívia, Brasil, Canadá, Chile, Colômbia, Escócia, Estados Unidos da América, França, Inglaterra, Peru, Suíça, Uruguai e Venezuela. Se B é o conjunto formado pelos países que participarão da conferência e não pertencem à América do Sul, então o número de subconjuntos formados a partir dos elementos de B é igual a 128.",
+            "resposta":"C",
+            "comentario":"Temos, nessa questão, como conjunto universo, todos os países que participarão da conferência internacional. U = {Alemanha, Argentina, Bolívia, Brasil, Canadá, Chile, Colômbia, Escócia, Estados Unidos da América, França, Inglaterra, Peru, Suíça, Uruguai e Venezuela} e B = {Alemanha, Canadá, Escócia, Estados Unidos da América, França, Inglaterra, Suíça}. Vimos que para sabermos o número de subconjuntos de qualquer conjunto basta sabermos a quantidade de elementos deste conjunto, já que o número de subconjuntos é dado por 2n onde n é o número de elementos do conjunto.",
             "lei": "sim",
-            "desc_lei": "Lei"
+            "desc_lei": "Assim, como B possui 7 elementos, o número de subconjuntos de B é dado por 2ˆ7 =2x2x2x2x2x2x2=128. Portanto, o item está correto."
+        },
+        {
+            "nro": "02",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"O conjunto dos números naturais: Simbolizamos por um Ν (n maiúsculo). Ele é formado por todos os números inteiros não negativos.",
+            "resposta":"C",
+            "comentario":"Isso mesmo, é exatamente o que diz a questão. É a mesma coisa que escrever: Ν = {0, 1, 2, 3, 4, 5, 6,...} ",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "03",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"Um importante subconjunto de Ν é chamado de Ν* e é dado por todos os números inteiros estritamente positivos, ou seja, o conjunto Ν excluindo-se o zero.",
+            "resposta":"E",
+            "comentario":"Errado! N* significa todos os números NATURAIS estritamente positivos, e não, 'inteiros' como diz a questão. É representado com a seguinte formula: N* = {1, 2, 3, 4, 5, 6, ...}, ou seja, o conjunto N menos o zero.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "04",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"O conjunto dos números inteiros: Simbolizamos por um Ζ (z maiúsculo). Como o próprio nome já diz, ele é formado por todos os números inteiros.",
+            "resposta":"C",
+            "comentario":"Correto! É representado com a seguinte formula: Ζ = {..., -4, -3, -2, -1, 0, 1, 2, 3, 4...}, veja que, são utilizados tanto números positivos quanto negativos.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "05",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"Três importantes subconjuntos de Ζ são: Ζ*, dado por todos os números inteiros diferentes de zero, ou seja, o conjunto Ζ excluindo-se o zero; Ζ+, dado por todos os números inteiros não negativos (Ζ+ = Ν) e Ζ-, dado por todos os números inteiros não positivos.",
+            "resposta":"C",
+            "comentario":"Isso mesmo! Segue a representação respectivamente. Ζ* = {..., -4, -3, -2, -1, 1, 2, 3, 4...} , Ζ+ = {0, 1, 2, 3, 4...} = Ν e Ζ- = {..., -4, -3, -2, -1, 0}.",
+            "lei": "",
+            "desc_lei": ""
+        }
+        ,
+        {
+            "nro": "06",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"Conjunto dos números racionais: Simbolizamos por um Q (q maiúsculo). Ele é formado por todos os números que podem ser escritos em forma de uma fração x/y onde x e y são números inteiros e y é igual a zero.",
+            "resposta":"E",
+            "comentario":"Errado! A pergunta deixa a questão errada ao afirmar que y é igual a zero. Devemos lembrar que não existe divisão por zero. Podemos dizer que, toda fração, todo número decimal, toda dízima periódica e todo número inteiro pertencem ao conjunto Q.",
+            "lei": "",
+            "desc_lei": ""
+        }
+        ,
+        {
+            "nro": "07",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"Podemos que existem três subconjuntos de Q, que são importantes: Q* (números racionais não nulos), Q+ (números racionais não negativos) e Q- (números racionais não positivos).",
+            "resposta":"C",
+            "comentario":"Perfeita a afirmação.",
+            "lei": "",
+            "desc_lei": ""
+        }
+        ,
+        {
+            "nro": "08",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"O conjunto dos números irracionais: Simbolizamos por um Ι (i maiúsculo). Ele é formado por todas as dízimas não periódicas, ou seja, números decimais com infinitas casas decimais que não se repetem.",
+            "resposta":"C",
+            "comentario":"Perfeita a afirmação. Exemplos: π (pi = 3,1416...); √5¯ (toda raiz não exata); 2,5694348667... (dízima não periódica); etc...",
+            "lei": "",
+            "desc_lei": ""
+        }
+        ,
+        {
+            "nro": "09",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"O Conjunto dos números reais: Simbolizamos por um R (r maiúsculo). Ele é formado por todos os números racionais e todos os números irracionais. Assim, todo número Real, ou é Racional ou é Irracional, não existe outra possibilidade.",
+            "resposta":"C",
+            "comentario":"Correta a afirmativa.",
+            "lei": "",
+            "desc_lei": ""
+        }
+        ,
+        {
+            "nro": "10",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"Ν ⊂ Ζ ⊂ Q ⊂ R. Ou seja, Ν é um subconjunto de Ζ, que é um subconjunto de Q, que é um subconjunto de R e Ι ⊂ R, onde I também é um subconjunto de R.",
+            "resposta":"C",
+            "comentario":"Perfeita a questão! Lembre das siglas e suas representações: N = Números Naturais, Z = Números Inteiros, Q = Números Racionais, I = Números Irracionais e R = Números Reais. Representação dos conjuntos = Ν ⊂ Ζ ⊂ Q ⊂ R e I ⊂ R",
+            "lei": "",
+            "desc_lei": ""
+        }
+        ,
+        {
+            "nro": "11",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"Dados os conjuntos A e B, definimos o conjunto união A ∪ B como { x ; x ∈ A ou x ∈ B}, ou seja, A ∪ B = {0, 1, 2} ∪ {2, 3, 4} = {0, 1, 2, 3, 4}.",
+            "resposta":"C",
+            "comentario":"Correto a afirmativa. O conjunto união é a junção de todos os elementos do conjunto A e do conjunto B.",
+            "lei": "",
+            "desc_lei": ""
+        }
+        ,
+        {
+            "nro": "12",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"Dados os conjuntos A e B, definimos o conjunto interseção A ∩ B como {x ; x ∈ A e x ∈ B}, ou seja, A ∩ B = {0, 1, 2} ∩ {2, 3, 4} = {2}",
+            "resposta":"C",
+            "comentario":"Correto a afirmativa. Podemos perceber que o conjunto interseção abrange apenas os elementos que pertencem tanto ao conjunto A quanto ao conjunto B. É preciso que o elemento pertença aos dois conjuntos para pertencer ao conjunto interseção (no nosso exemplo apenas o “2” pertence ao conjunto A e ao conjunto B e, assim, também pertence ao conjunto interseção).",
+            "lei": "",
+            "desc_lei": ""
+        }
+        ,
+        {
+            "nro": "13",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"Propriedades que misturam a união com a interseção podem ser chamadas de propriedades distributivas. A propriedade distributiva, A ∩ ( B ∪ C ) = (A ∩ B) ∪ ( A ∩ C) é verdadeira.",
+            "resposta":"C",
+            "comentario":"Isso mesmo! perfeita a afirmativa. Supomos que A = {1, 2, 3}, B = {2, 3, 4} e C = {4, 5, 6}. Então, A ∩ ( B ∪ C ) = {2, 3}. A ∩ B = {2, 3} e A ∩ C = {0}, portanto, a afirmativa  A ∩ ( B ∪ C ) = (A ∩ B) ∪ ( A ∩ C) é verdadeira.",
+            "lei": "",
+            "desc_lei": ""
         }
     ]
 }
