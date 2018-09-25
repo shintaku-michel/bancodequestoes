@@ -138,8 +138,7 @@
             "comentario":"Correto a afirmativa. Podemos perceber que o conjunto interseção abrange apenas os elementos que pertencem tanto ao conjunto A quanto ao conjunto B. É preciso que o elemento pertença aos dois conjuntos para pertencer ao conjunto interseção (no nosso exemplo apenas o “2” pertence ao conjunto A e ao conjunto B e, assim, também pertence ao conjunto interseção).",
             "lei": "",
             "desc_lei": ""
-        }
-        ,
+        },
         {
             "nro": "13",
             "disciplina":"Matemática",
@@ -148,6 +147,50 @@
             "pergunta":"Propriedades que misturam a união com a interseção podem ser chamadas de propriedades distributivas. A propriedade distributiva, A ∩ ( B ∪ C ) = (A ∩ B) ∪ ( A ∩ C) é verdadeira.",
             "resposta":"C",
             "comentario":"Isso mesmo! perfeita a afirmativa. Supomos que A = {1, 2, 3}, B = {2, 3, 4} e C = {4, 5, 6}. Então, A ∩ ( B ∪ C ) = {2, 3}. A ∩ B = {2, 3} e A ∩ C = {0}, portanto, a afirmativa  A ∩ ( B ∪ C ) = (A ∩ B) ∪ ( A ∩ C) é verdadeira.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "14",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"CESPE/2008 - SEFAZ/ES",
+            "pergunta":"Sejam A = {n ∈ N*; n é par}, B = {n ∈ N*; n é ímpar} e C = {n ∈ N*; n é primo}, em que N* é o conjunto dos números naturais estritamente positivos, o conjunto C ∩ A é vazio.",
+            "resposta":"E",
+            "comentario":"Se A = {n ∈ N*; n é par}, ou seja, A = {2, 4, 6, 8,...}, B = {n ∈ N*; n é ímpar}, ou seja, B = {1, 3, 5, 7, 9,...} e C = {n ∈ N*; n é primo}, ou seja, C = {2, 3, 5, 7, 11, 13, ...}, podemos concluir que, C ∩ A = {2}. ",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "15",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"CESPE/2008 - SEFAZ/ES",
+            "pergunta":"Uma conferência internacional reunirá representantes dos seguintes países: Alemanha, Argentina, Bolívia, Brasil, Canadá, Chile, Colômbia, Escócia, Estados Unidos da América, França, Inglaterra, Peru, Suíça, Uruguai e Venezuela. Se P representa o conjunto formado pelos países que participarão da conferência, e A, o conjunto formado pelos países da América do Sul, então o conjunto A ∩ P tem 5 elementos.",
+            "resposta":"E",
+            "comentario":"Se P = {Alemanha, Argentina, Bolívia, Brasil, Canadá, Chile, Colômbia, Escócia, Estados Unidos da América, França, Inglaterra, Peru, Suíça, Uruguai e Venezuela} e A = {x; x é um país da América do Sul}, então, A ∩ P = {Argentina, Bolívia, Brasil, Chile, Colômbia, Peru, Uruguai, Venezuela}. Possui 8 elementos.",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "16",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"CESPE/2008 - SEFAZ/ES",
+            "pergunta":"Sejam A = {n ∈ N*; n é par}, B = {n ∈ N*; n é ímpar} e C = {n ∈ N*; n é primo}, em que N* é o conjunto dos números naturais estritamente positivos. Assim, o conjunto N* - (A ∪ B) é vazio.",
+            "resposta":"C",
+            "comentario":"Podemos perceber que A ∪ B = N*, pois a união de todos os números pares positivos com todos os números ímpares positivos resulta no conjunto de todos os números naturais positivos. Assim, N* - (A ∪ B) = N* - N* = ∅",
+            "lei": "",
+            "desc_lei": ""
+        },
+        {
+            "nro": "17",
+            "disciplina":"Matemática",
+            "materia":"Conjuntos",
+            "banca":"Estratégia - Exercício de fixação",
+            "pergunta":"Podemos definir o conjunto resultante da diferença entre os conjuntos A e B como o conjunto dos elementos que pertencem ao conjunto A e não pertencem ao conjunto B, ou seja, A - B = {x | x ∈ A e x ∉ B}.",
+            "resposta":"C",
+            "comentario":"Os elementos do conjunto da diferença são aqueles que pertencem ao primeiro conjunto, mas não pertencem ao segundo. Exemplos: {1, 2, 3, 4} - {1, 2, 3} = {4}, {0, 1, 2} - {2, 3, 4} = {0, 1}",
             "lei": "",
             "desc_lei": ""
         }
