@@ -8,69 +8,72 @@ $(document).ready(function () {
                 urlJson = "./json/dir.administrativo.json";
                 break;
             case 'option2':
-                urlJson = "./json/dir.constitucional.json";
+                urlJson = "./json/dir.constitucional.00.json";
                 break;
             case 'option3':
-                urlJson = "./json/dir.humanos.cidadania.json";
+                urlJson = "./json/dir.constitucional.01.json";
                 break;
             case 'option4':
-                urlJson = "./json/dir.processual.penal.00.json";
+                urlJson = "./json/dir.humanos.cidadania.json";
                 break;
             case 'option5':
-                urlJson = "./json/dir.processual.penal.01.json";
+                urlJson = "./json/dir.processual.penal.00.json";
                 break;
             case 'option6':
-                urlJson = "./json/dir.processual.penal.02.json";
+                urlJson = "./json/dir.processual.penal.01.json";
                 break;
             case 'option7':
-                urlJson = "./json/dir.processual.penal.03.json";
+                urlJson = "./json/dir.processual.penal.02.json";
                 break;
             case 'option8':
-                urlJson = "./json/dir.penal.json";
+                urlJson = "./json/dir.processual.penal.03.json";
                 break;
             case 'option9':
-                urlJson = "./json/etica.00.json";
+                urlJson = "./json/dir.penal.json";
                 break;
             case 'option10':
-                urlJson = "./json/etica.01.json";
+                urlJson = "./json/etica.00.json";
                 break;
             case 'option11':
-                urlJson = "./json/etica.02.json";
+                urlJson = "./json/etica.01.json";
                 break;
             case 'option12':
-                urlJson = "./json/etica.03.json";
+                urlJson = "./json/etica.02.json";
                 break;
             case 'option13':
-                urlJson = "./json/fisica.json";
+                urlJson = "./json/etica.03.json";
                 break;
             case 'option14':
-                urlJson = "./json/informatica.json";
+                urlJson = "./json/fisica.json";
                 break;
             case 'option15':
-                urlJson = "./json/legislacao.dprf.00.json";
+                urlJson = "./json/informatica.json";
                 break;
             case 'option16':
-                urlJson = "./json/legislacao.dprf.01.json";
+                urlJson = "./json/legislacao.dprf.00.json";
                 break;
             case 'option17':
-                urlJson = "./json/legislacao.dprf.02.json";
+                urlJson = "./json/legislacao.dprf.01.json";
                 break;
             case 'option18':
-                urlJson = "./json/legislacao.dprf.03.json";
+                urlJson = "./json/legislacao.dprf.02.json";
                 break;
             case 'option19':
-                urlJson = "./json/legislacao.especial.json";
+                urlJson = "./json/legislacao.dprf.03.json";
                 break;
             case 'option20':
-                urlJson = "./json/matematica.json";
+                urlJson = "./json/legislacao.especial.json";
                 break;
             case 'option21':
-                urlJson = "./json/portugues.json";
+                urlJson = "./json/matematica.json";
                 break;
             case 'option22':
-                urlJson = "./json/nocoes.administracao.json";
+                urlJson = "./json/portugues.json";
                 break;
             case 'option23':
+                urlJson = "./json/nocoes.administracao.json";
+                break;
+            case 'option24':
                 urlJson = "./json/nocoes.estatistica.json";
                 break;
             default:
