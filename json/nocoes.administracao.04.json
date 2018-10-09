@@ -1,6 +1,7 @@
 {
     "questoes": [
         {
+            "nro": "01",
             "disciplina":"Noções de Administração",
             "materia":"Matéria",
             "banca":"Banca",

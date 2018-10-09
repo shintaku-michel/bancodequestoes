@@ -159,3 +159,11 @@ p.open-options {
 .form-group.col-md-12{
     margin-bottom: 5px;
 }
+.modal-footer {
+    text-align: center;
+    display: block;
+}
+.modal-body {
+    height: 310px;
+    overflow: auto;
+}
