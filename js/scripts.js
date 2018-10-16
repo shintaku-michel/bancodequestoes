@@ -391,6 +391,13 @@ $(document).ready(function () {
                 $(this).siblings(".parabens").css('display', 'block');
                 //Desabilitar os outros botoes de seleção
                 $(this).siblings('.btn.btn-danger.btn-sm, .btn.btn-warning.btn-sm').addClass('disabled');
+                swal({
+                    title: "Parabéns!!",
+                    text: "Continue assim...",
+                    icon: "success",
+                    buttons: false,
+                    timer: 2000
+                });
             } else {
                 contRespErrada++;
                 contPontos--;
@@ -400,6 +407,13 @@ $(document).ready(function () {
                 $(this).siblings(".que-pena").css('display', 'block');
                 //Desabilitar os outros botoes de seleção
                 $(this).siblings('.btn.btn-danger.btn-sm, .btn.btn-warning.btn-sm').addClass('disabled');
+                swal({
+                    title: "Opppsssss!!",
+                    text: "Acontece, tente novamente!",
+                    icon: "error",
+                    buttons: false,
+                    timer: 3000
+                });
             }
         });
 
@@ -417,6 +431,13 @@ $(document).ready(function () {
 
                 //Desabilitar os outros botoes de seleção
                 $(this).siblings('.btn.btn-success.btn-sm, .btn.btn-warning.btn-sm').addClass('disabled');
+                swal({
+                    title: "Parabéns!!",
+                    text: "Continue assim...",
+                    icon: "success",
+                    buttons: false,
+                    timer: 2000
+                });
             } else {
                 contRespErrada++;
                 contPontos--;
@@ -426,6 +447,13 @@ $(document).ready(function () {
                 $(this).siblings(".que-pena").css('display', 'block');
                 //Desabilitar os outros botoes de seleção
                 $(this).siblings('.btn.btn-success.btn-sm, .btn.btn-warning.btn-sm').addClass('disabled');
+                swal({
+                    title: "Opppsssss!!",
+                    text: "Acontece, tente novamente!",
+                    icon: "error",
+                    buttons: false,
+                    timer: 3000
+                });
             }
         });
 
