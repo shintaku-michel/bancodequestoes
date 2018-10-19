@@ -396,7 +396,7 @@ $(document).ready(function () {
                     text: "Continue assim...",
                     icon: "success",
                     buttons: false,
-                    timer: 2000
+                    timer: 3000
                 });
             } else {
                 contRespErrada++;
@@ -436,7 +436,7 @@ $(document).ready(function () {
                     text: "Continue assim...",
                     icon: "success",
                     buttons: false,
-                    timer: 2000
+                    timer: 3000
                 });
             } else {
                 contRespErrada++;
